@@ -6,6 +6,20 @@
 ![Screenshot](screenshots/coins_progress.png)
 ![Screenshot](screenshots/BTC_progress.png)
 
+
+## Crypto currencies
+
+In this config, you can find the folowing cryptos:
+- Bitcoin
+- Ethereum
+- Bitcoin Cash
+- Iota
+- Lisk
+- Civic
+
+You can add more cryptos by following the steps lower in this document.
+
+
 ## Installation
 
 1. Download and install [Better Touch Tool](https://www.boastr.net/downloads/). It allows you to modify your touch bar and other cool things. It's a 45-day trial but "pay what you like" to register.
@@ -21,3 +35,8 @@
 6. Click "General Touch Bar Settings" and enable the Touch Bar.
 
 7. Restart The Better Touch Tool.
+
+
+## Adding extra cryptos
+
+After the json file is imported using the Better Touch Tool, you can add other cryptos as well. This can be done by duplicating an existing button and changing the configuration by clicking "Advanced configuration" in the Better Touch Tool window.

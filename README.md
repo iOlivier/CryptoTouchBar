@@ -1,5 +1,8 @@
 # CryptoTouchBar
 
+Display your favorite cryptos on the Touch Bar of your MacBook Pro.
+
+
 ## Touch Bar Screenshots
 
 ![Screenshot](screenshots/coins.png)
@@ -22,19 +25,24 @@ You can add more cryptos by following the steps lower in this document.
 
 ## Installation
 
-1. Download and install [Better Touch Tool](https://www.boastr.net/downloads/). It allows you to modify your touch bar and other cool things. It's a 45-day trial but "pay what you like" to register.
+1. Install [Homebrew](https://www.boastr.net/downloads/).
 
-2. Right-click, download and unzip this project. [master.zip](https://github.com/iOlivier/CryptoTouchBar/archive/master.zip)
+2. Install jq.
+```brew install jq```
 
-3. In your Mac's menu bar, click the Better Touch Tool `icon > Preferences`.
+3. Download and install [Better Touch Tool](https://www.boastr.net/downloads/). It allows you to modify your touch bar and other cool things. It's a 45-day trial but "pay what you like" to register.
 
-4. In the bottom left corner of the popup go to `Manage Presets`.
+4. Right-click, download and unzip this project. [master.zip](https://github.com/iOlivier/CryptoTouchBar/archive/master.zip)
 
-5. Click the "Import" button and select the [CryptoTouchBar.json](https://raw.githubusercontent.com/iOlivier/CryptoTouchBar/master/CryptoTouchBar.json) file from the project you downloaded and unzipped in step 2.
+5. In your Mac's menu bar, click the Better Touch Tool `icon > Preferences`.
 
-6. Click "General Touch Bar Settings" and enable the Touch Bar.
+6. In the bottom left corner of the popup go to `Manage Presets`.
 
-7. Restart The Better Touch Tool.
+7. Click the "Import" button and select the [CryptoTouchBar.json](https://raw.githubusercontent.com/iOlivier/CryptoTouchBar/master/CryptoTouchBar.json) file from the project you downloaded and unzipped in step 4.
+
+8. Click "General Touch Bar Settings" and enable the Touch Bar.
+
+9. Restart The Better Touch Tool.
 
 
 ## Adding extra cryptos

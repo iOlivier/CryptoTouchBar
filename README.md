@@ -2,9 +2,9 @@
 
 ## Touch Bar Screenshots
 
-![Screenshot](screenshots/coins.jpg)
-![Screenshot](screenshots/coins_progress.jpg)
-![Screenshot](screenshots/BTC_progress.jpg)
+![Screenshot](screenshots/coins.png)
+![Screenshot](screenshots/coins_progress.png)
+![Screenshot](screenshots/BTC_progress.png)
 
 ## Installation
 

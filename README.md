@@ -5,7 +5,8 @@ Display your favorite cryptos on the Touch Bar of your MacBook Pro.
 
 ## Touch Bar Screenshots
 
-![Screenshot](screenshots/coins.png)
+![Screenshot](screenshots/coins1.png)
+![Screenshot](screenshots/coins2.png)
 ![Screenshot](screenshots/coins_progress.png)
 ![Screenshot](screenshots/BTC_progress.png)
 
@@ -18,6 +19,8 @@ In this config, you can find the folowing cryptos:
 - Bitcoin Cash
 - Iota
 - Lisk
+- Litecoin
+- Ripple
 - Civic
 
 You can add more cryptos by following the steps lower in this document.
@@ -25,7 +28,7 @@ You can add more cryptos by following the steps lower in this document.
 
 ## Installation
 
-1. Install [Homebrew](https://www.boastr.net/downloads/).
+1. Install [Homebrew](https://brew.sh).
 
 2. Install jq.
 ```brew install jq```

@@ -17,10 +17,12 @@ In this config, you can find the folowing cryptos:
 - Bitcoin
 - Ethereum
 - Bitcoin Cash
-- Iota
-- Lisk
 - Litecoin
 - Ripple
+- Iota
+- Lisk
+- Ardor
+- Waves
 - Civic
 
 You can add more cryptos by following the steps lower in this document.

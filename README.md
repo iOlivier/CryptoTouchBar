@@ -24,6 +24,7 @@ In this config, you can find the folowing cryptos:
 - Ardor
 - Waves
 - Civic
+- Komodo
 
 You can add more cryptos by following the steps lower in this document.
 
@@ -53,3 +54,10 @@ You can add more cryptos by following the steps lower in this document.
 ## Adding extra cryptos
 
 After the json file is imported using the Better Touch Tool, you can add other cryptos as well. This can be done by duplicating an existing button and changing the configuration by clicking "Advanced configuration" in the Better Touch Tool window.
+
+
+## Donations
+
+If you find CryptoTouchBar helpful, please consider a small donation.
+
+- BTC Address: 3EwUbzCjENK768eB85bMYrNANg2FX3dEef

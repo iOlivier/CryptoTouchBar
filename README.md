@@ -47,7 +47,7 @@ You can add more cryptos by following the steps lower in this document.
 
 7. Click the "Import" button and select the [CryptoTouchBar.json](https://raw.githubusercontent.com/iOlivier/CryptoTouchBar/master/CryptoTouchBar.json) file from the project you downloaded and unzipped in step 4.
 
-8. Click "General Touch Bar Settings" and enable the Touch Bar.
+8. Click "General Touch Bar Settings" and enable the Touch Bar. [More info here.](screenshots/installStep8.png)
 
 9. Restart The Better Touch Tool.
 

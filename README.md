@@ -23,6 +23,7 @@ In this config, you can find the folowing cryptos:
 - Lisk
 - Ardor
 - Waves
+- Cordano
 - Civic
 - Komodo
 

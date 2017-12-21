@@ -21,6 +21,9 @@ In this config, you can find the folowing cryptos:
 - Ripple
 - Iota
 - Lisk
+- Dash
+- NEM
+- Nxt
 - Ardor
 - Waves
 - Cordano
@@ -41,7 +44,7 @@ You can add more cryptos by following the steps lower in this document.
 
 4. Right-click, download and unzip this project. [master.zip](https://github.com/iOlivier/CryptoTouchBar/archive/master.zip)
 
-5. In your Mac's menu bar, click the Better Touch Tool `icon > Preferences`.
+5. Open the Better Touch Tool on your Mac and go to the `TouchBar` section.
 
 6. In the bottom left corner of the popup go to `Manage Presets`.
 

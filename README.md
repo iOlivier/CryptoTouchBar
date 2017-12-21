@@ -46,7 +46,7 @@ You can add more cryptos by following the steps lower in this document.
 
 5. Open the Better Touch Tool on your Mac and go to the `TouchBar` section.
 
-6. In the bottom left corner of the popup go to `Manage Presets`.
+6. In the bottom left corner of the window go to `Manage Presets`.
 
 7. Click the "Import" button and select the [CryptoTouchBar.json](https://raw.githubusercontent.com/iOlivier/CryptoTouchBar/master/CryptoTouchBar.json) file from the project you downloaded and unzipped in step 4.
     [Click for screenshot](screenshots/installStep7.png)

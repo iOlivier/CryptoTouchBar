@@ -29,6 +29,8 @@ In this config, you can find the folowing cryptos:
 - Cordano
 - Civic
 - Komodo
+- Maker
+- Dai
 
 You can add more cryptos by following the steps lower in this document.
 

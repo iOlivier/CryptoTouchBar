@@ -3,15 +3,23 @@
 Display your favorite cryptos on the Touch Bar of your MacBook Pro.
 
 
+- [Touch Bar Screenshots](#touch-bar-screenshots)
+- [Supported crypto currencies](#supported-crypto-currencies)
+- [Installation](#installation)
+- [Adding extra cryptos](#adding-extra-cryptos)
+- [Donations](#donations)
+
+
 ## Touch Bar Screenshots
 
 ![Screenshot](screenshots/coins1.png)
 ![Screenshot](screenshots/coins2.png)
+![Screenshot](screenshots/coins3.png)
 ![Screenshot](screenshots/coins_progress.png)
 ![Screenshot](screenshots/BTC_progress.png)
 
 
-## Crypto currencies
+## Supported crypto currencies
 
 In this config, you can find the folowing cryptos:
 - Bitcoin
@@ -69,3 +77,5 @@ After the json file is imported using the Better Touch Tool, you can add other c
 If you find CryptoTouchBar helpful, please consider a small donation.
 
 - BTC Address: 3EwUbzCjENK768eB85bMYrNANg2FX3dEef
+- ETH Address: 0x19Ad6166cC4fD645c3D38Db5F16DFBEa958908Ad
+- LSK: 3415691582311479075L

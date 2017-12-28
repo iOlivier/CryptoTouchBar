@@ -78,4 +78,4 @@ If you find CryptoTouchBar helpful, please consider a small donation.
 
 - BTC Address: 3EwUbzCjENK768eB85bMYrNANg2FX3dEef
 - ETH Address: 0x19Ad6166cC4fD645c3D38Db5F16DFBEa958908Ad
-- LSK: 3415691582311479075L
+- LSK Address: 3415691582311479075L

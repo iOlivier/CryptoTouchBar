@@ -15,6 +15,7 @@ Display your favorite cryptos on the Touch Bar of your MacBook Pro.
 ![Screenshot](screenshots/coins1.png)
 ![Screenshot](screenshots/coins2.png)
 ![Screenshot](screenshots/coins3.png)
+![Screenshot](screenshots/coins4.png)
 ![Screenshot](screenshots/coins_progress.png)
 ![Screenshot](screenshots/BTC_progress.png)
 
@@ -28,13 +29,14 @@ In this config, you can find the folowing cryptos:
 - Litecoin
 - Ripple
 - Iota
+- Cordano
 - Lisk
 - Dash
 - NEM
 - Nxt
 - Ardor
+- Ignis
 - Waves
-- Cordano
 - Civic
 - Komodo
 - Maker

@@ -37,9 +37,11 @@ In this config, you can find the folowing cryptos:
 - Nxt
 - Ardor
 - Ignis
+- RaiBlocks
 - Waves
 - Civic
 - Komodo
+- ColossusCoinXT
 - Maker
 - Dai
 

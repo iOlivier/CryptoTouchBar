@@ -30,6 +30,7 @@ In this config, you can find the folowing cryptos:
 - Ripple
 - Iota
 - Cordano
+- Stellar
 - Lisk
 - Dash
 - NEM
